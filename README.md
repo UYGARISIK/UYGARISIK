@@ -1,4 +1,11 @@
-### Hi there 👋 ben Uygar Işık
+### Hi there 👋 Adım Uygar Işık :blush:
+
+## Yazılım Test Mühendisi
+
+* 🌍 Kocaeli / Türkiye'de ikamet ediyorum
+* Benimle uygar.414996@gmail.com adresinden görüşebilirsiniz
+
+
 
 <!--
 **UYGARISIK/UYGARISIK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
